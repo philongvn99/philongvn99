@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science and Engineering in Hochiminh University of Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-  + Phone: (+84)32 707 1985
+  + Linkedin: https://www.linkedin.com/in/long-phi-819316186/
   + Email: long.vonguyenphi@gmail.com
 
 <!---
